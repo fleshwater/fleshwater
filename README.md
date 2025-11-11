@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/04fc1a8a-cc9d-4918-b4e5-14613c6c722a
  ![](https://komarev.com/ghpvc/?username=fleshwater&color=552721&style=plastic&label=𖦹𓃉)
 
  
-<a href="https://whirr.atabook.org" target="_blank">新book</a>　　<a href="https://drivelikeido.straw.page/" target="_blank">straw</a>　　<a href="https://tinyurl.com/spotifytyr" target="_blank">spotify</a>
+<a href="https://www.last.fm/user/arndthefur" target="_blank">last.fm</a>　　<a href="https://www.discogs.com/user/fleshw8ter/collection" target="_blank">vinyls</a>　　<a href="https://tinyurl.com/spotifytyr" target="_blank">spotify</a>
 
 
  
