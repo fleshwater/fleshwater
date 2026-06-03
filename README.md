@@ -1,18 +1,19 @@
 <div align="center">
 
-https://github.com/user-attachments/assets/8bc02378-5402-4b7b-aafd-036adfe079b9
+ ![](https://komarev.com/ghpvc/?username=fleshwater&color=000000&style=plastic&label=>__<)
 
-<h6 align>   
+ <p align="center">
+<img width="200" src="https://imgur.com/ZL1scqh.gif" />
+</p>
 
-
- ![](https://komarev.com/ghpvc/?username=fleshwater&color=552721&style=plastic&label=𖦹𓃉)
-
- 
 <a href="https://www.last.fm/user/arndthefur" target="_blank">last.fm</a>　　<a href="https://www.discogs.com/user/fleshw8ter/collection" target="_blank">vinyls</a>　　<a href="https://tinyurl.com/spotifytyr" target="_blank">spotify</a>
 
 
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wylx5vdcazqpszp1esxr66mf8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wylx5vdcazqpszp1esxr66mf8&redirect=true)
+ <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wylx5vdcazqpszp1esxr66mf8&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wylx5vdcazqpszp1esxr66mf8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&&bar_color=53b14f&bar_color_cover=true" width="275">
+  </a>
+</p>
 
 <p align> <small>
 I am a genius / There is not a single thing I don't excel at
