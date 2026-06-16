@@ -3,7 +3,7 @@
  ![](https://komarev.com/ghpvc/?username=fleshwater&color=000000&style=plastic&label=>__<)
 
  <p align="center">
-<img width="200" src="https://imgur.com/ZL1scqh.gif" />
+<img width="200" src="https://github.com/user-attachments/assets/962fd01b-1c1d-45ec-b91a-39faae3c4766" />
 </p>
 
 <a href="https://www.last.fm/user/arndthefur" target="_blank">last.fm</a>　　<a href="https://www.discogs.com/user/fleshw8ter/collection" target="_blank">vinyls</a>　　<a href="https://tinyurl.com/spotifytyr" target="_blank">spotify</a>
