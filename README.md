@@ -6,8 +6,6 @@
 <img width="200" src="https://i.imgur.com/wYwyGUK.gif" />
 </p>
 
-<a href="https://www.last.fm/user/arndthefur" target="_blank">last.fm</a>　　<a href="https://www.discogs.com/user/fleshw8ter/collection" target="_blank">vinyls</a>　　<a href="https://tinyurl.com/spotifytyr" target="_blank">spotify</a>
-
 
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wylx5vdcazqpszp1esxr66mf8&redirect=true">
