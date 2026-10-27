@@ -6,6 +6,8 @@
 <img width="250" src="https://i.imgur.com/MGsot5e.png" />
 </p>
 
+<a href="https://fluffle.cc/nicebassbro">info</a>
+
 
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wylx5vdcazqpszp1esxr66mf8&redirect=true">
