@@ -3,7 +3,7 @@
  ![](https://komarev.com/ghpvc/?username=fleshwater&color=000000&style=plastic&label=>__<)
 
  <p align="center">
-<img width="200" src="https://i.imgur.com/wYwyGUK.gif" />
+<img width="250" src="https://i.imgur.com/MGsot5e.png" />
 </p>
 
 
